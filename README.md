@@ -1,5 +1,7 @@
 # basicModal
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/electerious/basicModal.svg)](https://greenkeeper.io/)
+
 Easy-to-use dialog system for modern web-apps.
 
 ![Modal Screenshot](https://l.electerious.com/uploads/big/0aac1124d3884e2ac0d62f0879d27333.png)
